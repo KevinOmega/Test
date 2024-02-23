@@ -1,5 +1,7 @@
 {
     "DATABASE":{
-        "create": "CREATE TABLE nombre (datos)"
+
+        "create": "CREATE TABLE nombre (datos)",
+        "create": "CREATE DATABASE <databasename>"
     }
 }
