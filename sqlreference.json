@@ -1,5 +1,5 @@
 {
     "DATABASE":{
-        
+        "create": "CREATE DATABASE <databasename>"
     }
 }
