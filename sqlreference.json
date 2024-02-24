@@ -4,6 +4,7 @@
         "create": "CREATE DATABASE <databasename>"
     },
     "TABLE":{
-        "create": "CREATE TABLE nombre (datos)"
+        "create": "CREATE TABLE nombre (datos)",
+        "create": "CREATE DATABASE <databasename>"
     }
 }
