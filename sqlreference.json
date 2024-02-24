@@ -2,9 +2,11 @@
     "DATABASE":{
 
         "create": "CREATE TABLE nombre (datos)",
-        "create": "CREATE DATABASE <databasename>"
+        "create": "CREATE DATABASE <databasename>",
 
-        asdsadkljfasdjkfjañklfjkldsjf klasdjklfjasdklfjkladfjklasjdfklajsdklfja
+        
+        "tablita :D":"hola"
+
 
     }
 
